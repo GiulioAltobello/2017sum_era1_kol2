@@ -1,0 +1,1 @@
+{"python": [{"giulio": [5, 4.5]}, {"merkel": [2, 3]}], "pattern": [{"merkel": [4, 3]}]}
